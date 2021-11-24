@@ -1,6 +1,7 @@
 ## ПиТА, модуль Алгоритмы
 
-####Формула оценки: 
+### Формула оценки:
+
 $$0.15 \cdot (O(HW_1) + O(HW_2) + O(HW_3) + O(HW_4)) + 0.4 \cdot O(Colloquium)$$
 
 ### Домашняя работа:
@@ -31,7 +32,9 @@ ToDo (@Aphanasiy):
 ### Обратная связь:
 
 Telegram: [@Aphanasiy](https://t.me/Aphanasiy)
+
 Чат: По запросу через одногруппников или в ЛС
 Teams с записями лекций: По запросу через одногруппников или в ЛС
+
 Табличка с оценками: [Тык](https://docs.google.com/spreadsheets/d/1xKLhgEk9V0oqD9xQaG99sMGWz_RVH5u2qfrGkcsrbV0/edit?usp=sharing)
 
